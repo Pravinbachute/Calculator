@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="unit_types">
+            <item>Length</item>
+            <item>Weight</item>
+        </string-array>
+
+        <string-array name="length_units">
+            <item>Centimeters</item>
+            <item>Meters</item>
+            <!-- Add more length units here -->
+        </string-array>
+
+        <string-array name="weight_units">
+            <item>Grams</item>
+            <item>Kilograms</item>
+            <!-- Add more weight units here -->
+        </string-array>
+
+</resources>
